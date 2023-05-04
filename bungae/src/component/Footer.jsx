@@ -13,11 +13,10 @@ export default function Footer(){
                     <li>소셜</li>
                 </ul>
             </div>
-            <div className="categori_line">
+            <div className="categori_line">33
                 <ul>
                     <li><b>서비스</b></li>
                     <li>중요 기능 소개</li>
-                   
                 </ul>
             </div>
             <div className="categori_line">

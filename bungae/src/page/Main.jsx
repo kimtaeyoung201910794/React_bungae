@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "./Header";
-import Footer from "./Footer";
-import List from "./List";
+import Header from "../component/Header";
+import Footer from "../component/Footer";
+import List from "../component/List";
 import { dummy } from "../ListDummy";
 
 export default function Main() {

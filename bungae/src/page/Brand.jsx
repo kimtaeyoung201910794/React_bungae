@@ -1,8 +1,8 @@
 import React from "react";
-import List from "./List";
-import Header from "./Header";
-import Footer from "./Footer";
-import { dummy } from './../ListDummy';
+import List from "../component/List";
+import Header from "../component/Header";
+import Footer from "../component/Footer";
+import { dummy } from '../ListDummy';
 
 export default function Brand(){
     return(
